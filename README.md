@@ -9,3 +9,6 @@ Find the funniest gifs to share with friends
 ## Run project
 
     yarn dev
+    
+## Demo
+[inline link](https://jhone17.github.io/react-gifsearch/)
