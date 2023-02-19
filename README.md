@@ -11,4 +11,4 @@ Find the funniest gifs to share with friends
     yarn dev
     
 ## Demo
-[inline link](https://jhone17.github.io/react-gifsearch/)
+[Page Demo](https://jhone17.github.io/react-gifsearch/)
